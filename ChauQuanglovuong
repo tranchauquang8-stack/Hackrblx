@@ -51,14 +51,10 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
     Callback = function()
 	 loadstring(game:HttpGet("https://raw.githubusercontent.com/xSync-gg/VisionX/refs/heads/main/Server_Finder.lua"))()
   end
-  })   AddButton(Tab2o, {
+  })  
+AddButton(Tab2o, {
      Name = "☠️Jumpscare☠️",
     Callback = function()
 	 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-jumpscare-script-50195"))()
   end
-  })    AddButton(Tab1o, {
-     Name = "Banana hub free 🤑🤑🤑",
-    Callback = function()
-	 loadstring(game:HttpGet("https://raw.githubusercontent.com/kimprobloxdz/Banana-Free/refs/heads/main/Protected_5609200582002947.lua.txt"))()
-  end
-  })
+  })    
