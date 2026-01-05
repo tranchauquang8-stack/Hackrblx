@@ -1,0 +1,59 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V2/refs/heads/main/UiREDzV2.lua")))()
+
+       local Window = MakeWindow({
+         Hub = {
+         Title = "Châu Quang 🤓☝️☝️✅️",
+         Animation = "Quang🐿🫙"
+         },
+        Key = {
+        KeySystem = true,
+        Title = "👻Kiểm Duyệt👻",
+        Description = "Châu Quang✅️🤓☝️",
+        KeyLink = "",
+        Keys = {"8336"},
+        Notifi = {
+        Notifications = true,
+        CorrectKey = "ĐẦU TƯ VÀO HDPE THÌ NGON LU🤓☝️[ĐÚNG]...",
+       Incorrectkey = "ĐẦU TƯ NHƯ NÀY NHƯ MUỐI BỎ BIÊN[SAI]",
+       CopyKeyLink = "Copied to Clipboard"
+      }
+    }
+  })
+
+       MinimizeButton({
+       Image = "http://www.roblox.com/asset/?id=107284084185028",
+       Size = {60, 60},
+       Color = Color3.fromRGB(10, 10, 10),
+       Corner = true,
+       Stroke = true,
+       StrokeColor = Color3.fromRGB(100, 0, 10)
+      })
+      
+------ Tab
+     local Tab1o = MakeTab({Name = "Blox Fruit"})
+     local Tab2o = MakeTab({Name = "okokok..."})
+------- BUTTON
+    
+    AddButton(Tab1o, {
+     Name = "Banana hub free 🤑🤑🤑🟢",
+    Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/kimprobloxdz/Banana-Free/refs/heads/main/Protected_5609200582002947.lua.txt"))()
+  end
+  })
+  AddButton(Tab1o, {
+     Name = "NAGIHUB[KEY:coresfruit]🟢",
+    Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/platformdiamond/BloxFruits-/refs/heads/main/Blox%20fruit"))()
+  end
+  })
+     AddButton(Tab1o, {
+     Name = "SERVER-HOP🟢",
+    Callback = function()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/xSync-gg/VisionX/refs/heads/main/Server_Finder.lua"))()
+  end
+  })   AddButton(Tab2o, {
+     Name = "☠️Jumpscare☠️",
+    Callback = function()
+	 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-jumpscare-script-50195"))()
+  end
+  })
