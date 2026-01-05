@@ -9,7 +9,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         KeySystem = true,
         Title = "👻Kiểm Duyệt👻",
         Description = "Châu Quang✅️🤓☝️",
-        KeyLink = "",
+        KeyLink = "https://link4sub.com/p9fzLTPurD",
         Keys = {"8336"},
         Notifi = {
         Notifications = true,
