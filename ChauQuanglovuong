@@ -63,8 +63,8 @@ AddButton(Tab2o, {
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-GravityHub/BloxFruit/refs/heads/main/Main.lua"))()
   end
   })   AddButton(Tab1o, {
-     Name = "Banana hub free 🤑🤑🤑",
+     Name = "Gravity-hub☄️",
     Callback = function()
-	 loadstring(game:HttpGet("https://raw.githubusercontent.com/kimprobloxdz/Banana-Free/refs/heads/main/Protected_5609200582002947.lua.txt"))()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-GravityHub/BloxFruit/refs/heads/main/Main.lua"))()
   end
   })
