@@ -78,4 +78,9 @@ loadstring(game:HttpGet("https://leaf-zeta.onrender.com/api/script"))()
     Callback = function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Bubu2k/Rubutv/refs/heads/main/rubuhubv5.lua"))()
   end
+  })       AddButton(Tab1o, {
+     Name = "King-Rua-Hub🐢🐢",
+    Callback = function()
+	repeat task.wait() until game:IsLoaded() and game.Players.LocalPlayer loadstring(game:HttpGet("https://raw.githubusercontent.com/shinichi-dz/phucshinyeuem/refs/heads/main/KingRuaHub.lua"))()
+  end
   })   
