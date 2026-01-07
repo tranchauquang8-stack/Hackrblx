@@ -31,7 +31,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
       
 ------ Tab
      local Tab1o = MakeTab({Name = "Blox Fruit"})
-     local Tab2o = MakeTab({Name = "okokok..."})
+     local Tab2o = MakeTab({Name = "99 night 🌲🌑"})
 ------- BUTTON
     
     AddButton(Tab1o, {
@@ -53,9 +53,9 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   end
   })  
 AddButton(Tab2o, {
-     Name = "☠️Jumpscare☠️",
+     Name = "FoxnameHub🦊",
     Callback = function()
-	 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-jumpscare-script-50195"))()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/refs/heads/main/FoxnameHub.lua"))()
   end
   })       AddButton(Tab1o, {
      Name = "Gavity-Hub☄️",
@@ -67,5 +67,15 @@ AddButton(Tab2o, {
     Callback = function()
     repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
 loadstring(game:HttpGet("https://leaf-zeta.onrender.com/api/script"))()
+  end
+  })       AddButton(Tab1o, {
+     Name = "Trau-V7vn🇻🇳🇻🇳",
+    Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/traurobloxdeptrai/traukhoaito/refs/heads/main/trauhubv7.lua"))()
+  end
+  })       AddButton(Tab1o, {
+     Name = "rubu-hubv5🤓☝️",
+    Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Bubu2k/Rubutv/refs/heads/main/rubuhubv5.lua"))()
   end
   })   
