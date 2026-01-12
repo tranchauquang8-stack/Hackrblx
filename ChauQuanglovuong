@@ -6,7 +6,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
          Animation = "Quang🐿🫙"
          },
         Key = {
-        KeySystem = true,
+        KeySystem = false,
         Title = "👻Kiểm Duyệt👻",
         Description = "Châu Quang✅️🤓☝️",
         KeyLink = "https://link4sub.com/p9fzLTPurD",
