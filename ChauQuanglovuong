@@ -75,7 +75,7 @@ loadstring(game:HttpGet("https://leaf-zeta.onrender.com/api/script"))()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/traurobloxdeptrai/traukhoaito/refs/heads/main/trauhubv7.lua"))()
   end
   })       AddButton(Tab1o, {
-     Name = "rubu-hubv5🤓☝️",
+     Name = "rubu-hubv5🐱",
     Callback = function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Bubu2k/Rubutv/refs/heads/main/rubuhubv5.lua"))()
   end
@@ -120,4 +120,9 @@ loadstring(game:HttpGet("https://leaf-zeta.onrender.com/api/script"))()
    end
   end
   end
-  })   
+  })       AddButton(Tab1o, {
+     Name = "Rubu-hubv6🐱",
+    Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/TEDDY-FREEMIUM"))()
+  end
+  })
