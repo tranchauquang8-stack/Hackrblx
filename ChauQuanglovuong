@@ -6,7 +6,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
          Animation = "Quang🐿🫙"
          },
         Key = {
-        KeySystem = false,
+        KeySystem = true,
         Title = "👻Kiểm Duyệt👻",
         Description = "Châu Quang✅️🤓☝️",
         KeyLink = "https://link4sub.com/p9fzLTPurD",
@@ -78,11 +78,6 @@ loadstring(game:HttpGet("https://leaf-zeta.onrender.com/api/script"))()
      Name = "Teddy freenium🤑",
     Callback = function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/TEDDY-FREEMIUM"))()
-  end
-  })       AddButton(Tab1o, {
-     Name = "blueHubx🌀",
-    Callback = function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
   end
   })       AddButton(Tab3o, {
      Name = "Nhấp ik[🚫]",
