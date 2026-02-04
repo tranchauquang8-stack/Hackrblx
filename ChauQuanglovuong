@@ -37,13 +37,13 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
     AddButton(Tab1o, {
      Name = "QUANGLOVUONG🤯☝️☝️[ 🔥BẢN MỚI🔥][CÒN THIẾU NHIỀU]",
     Callback = function()
-	 loadstring(game:HttpGet("https://raw.githubusercontent.com/kimprobloxdz/Banana-Free/refs/heads/main/Protected_5609200582002947.lua.txt"))()
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/tranchauquang8-stack/QUANGLOVUONGNEW2026HUB/refs/heads/main/main"))()
   end
   })
   AddButton(Tab1o, {
      Name = "QUANGLOVUONG🤓☝️☝️☝️[ BẢN CỦ ]",
     Callback = function()
-	 loadstring(game:HttpGet("https://raw.githubusercontent.com/platformdiamond/BloxFruits-/refs/heads/main/Blox%20fruit"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/tranchauquang8-stack/Quanglovuong/refs/heads/main/Main"))()
   end
   })
      
