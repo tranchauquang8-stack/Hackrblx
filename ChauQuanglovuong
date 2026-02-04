@@ -2,14 +2,14 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "Châu Quang 🤓☝️☝️✅️",
+         Title = "CHỌN HACK PHIÊN BẢN QUANGLOVUONG🤯",
          Animation = "Quang🐿🫙"
          },
         Key = {
         KeySystem = true,
         Title = "👻Kiểm Duyệt👻",
         Description = "Châu Quang✅️🤓☝️",
-        KeyLink = "https://link4sub.com/notes/i4Yk",
+        KeyLink = "1111",
         Keys = {"1111"},
         Notifi = {
         Notifications = true,
@@ -30,87 +30,20 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
       })
       
 ------ Tab
-     local Tab1o = MakeTab({Name = "Blox Fruit"})
-     local Tab2o = MakeTab({Name = "99 night 🌲🌑"})
-     local Tab3o = MakeTab({Name = "‼️Seret‼️"})
+     local Tab1o = MakeTab({Name = "⚙️CHỌN HACK⚙️"})
+     
 ------- BUTTON
     
     AddButton(Tab1o, {
-     Name = "Banana hub free 🤑🤑🤑🟢",
+     Name = "QUANGLOVUONG🤯☝️☝️[ 🔥BẢN MỚI🔥][CÒN THIẾU NHIỀU]",
     Callback = function()
 	 loadstring(game:HttpGet("https://raw.githubusercontent.com/kimprobloxdz/Banana-Free/refs/heads/main/Protected_5609200582002947.lua.txt"))()
   end
   })
   AddButton(Tab1o, {
-     Name = "NAGIHUB[KEY:coresfruit]🟢",
+     Name = "QUANGLOVUONG🤓☝️☝️☝️[ BẢN CỦ ]",
     Callback = function()
 	 loadstring(game:HttpGet("https://raw.githubusercontent.com/platformdiamond/BloxFruits-/refs/heads/main/Blox%20fruit"))()
   end
   })
-     AddButton(Tab1o, {
-     Name = "SERVER-HOP🟢",
-    Callback = function()
-	 loadstring(game:HttpGet("https://raw.githubusercontent.com/xSync-gg/VisionX/refs/heads/main/Server_Finder.lua"))()
-  end
-  })  
-AddButton(Tab2o, {
-     Name = "FoxnameHub🦊",
-    Callback = function()
-	 loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/refs/heads/main/FoxnameHub.lua"))()
-  end
-  })       AddButton(Tab1o, {
-     Name = "Gavity-Hub☄️",
-    Callback = function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-GravityHub/BloxFruit/refs/heads/main/Main.lua"))()
-  end
-  })       AddButton(Tab1o, {
-     Name = "Leaf Hub🌿🌿",
-    Callback = function()
-    repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
-loadstring(game:HttpGet("https://leaf-zeta.onrender.com/api/script"))()
-  end
-  })       AddButton(Tab1o, {
-     Name = "King-Rua-Hub🐢🐢",
-    Callback = function()
-	repeat task.wait() until game:IsLoaded() and game.Players.LocalPlayer loadstring(game:HttpGet("https://raw.githubusercontent.com/shinichi-dz/phucshinyeuem/refs/heads/main/KingRuaHub.lua"))()
-  end
-  })       AddButton(Tab1o, {
-     Name = "Teddy freenium🤑",
-    Callback = function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/TEDDY-FREEMIUM"))()
-  end
-  })       AddButton(Tab3o, {
-     Name = "Nhấp ik[🚫]",
-    Callback = function()
-	Loadstring(game:HttpGet("https: //raw.githubusercontent.com /TheqopThe/robax/refs/heads /main/jumpscare.lua"))()
-  end
-  })       AddButton(Tab1o, {
-     Name = "Rubu-hubv6🐱",
-    Callback = function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Teddyseetink/Haidepzai/refs/heads/main/TEDDY-FREEMIUM"))()
-  end
-  })       AddButton(Tab1o, {
-     Name = "Server-hopv2🤑",
-    Callback = function()
-	loadstring(game:HttpGet("https://rise-evo.xyz/apiv3/ServerFinder.lua"))()
-  end
-  })       AddButton(Tab1o, {
-     Name = "Trau-robloxv8🤯",
-    Callback = function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/traurobloxdeptrai/traukhoaito/refs/heads/main/traurobloxv8.lua"))()
-  end
-  })       AddButton(Tab1o, {
-     Name = "Bacon-hub🔥😗",
-    Callback = function()
-	repeat wait() until game:IsLoaded() and game.Players.LocalPlayer 
-getgenv().team = "Pirates" -- Pirates or Marines
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vinh129150/hack/refs/heads/main/BaconHub.lua"))()
-  end
-  })       AddButton(Tab1o, {
-     Name = "Bacon-hub-HOP🤑",
-    Callback = function()
-	repeat wait() until game:IsLoaded() and game.Players.LocalPlayer 
-getgenv().team = "Pirates" -- Pirates or Marines
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vinh129150/hack/refs/heads/main/HopBoss.lua"))()
-  end
-  })
+     
