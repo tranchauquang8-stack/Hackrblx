@@ -83,7 +83,7 @@ Title = "Garden Horizons🌱",
     Locked = false,
 })
 local Button = Tab:Button({
-    Title = "ServerhopV1🖨",
+    Title = "🖨",
     Desc = "",
     Locked = false,
     Callback = function()
