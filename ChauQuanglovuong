@@ -83,13 +83,13 @@ Title = "Garden Horizons🌱",
     Locked = false,
 })
 local Button = Tab:Button({
-    Title = "🖨",
+    Title = "ServerhopV1🖨",
     Desc = "",
     Locked = false,
     Callback = function()
        loadstring(game:HttpGet("https://raw.githubusercontent.com/xSync-gg/VisionX/refs/heads/main/Server_Finder.lua"))()
     end
- })
+})
 local Tab = Window:Tab({
 Title = "⚙️Config⚙️",
     Icon = "solar:cursor-square-bold", -- optional
