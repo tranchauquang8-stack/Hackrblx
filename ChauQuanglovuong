@@ -77,6 +77,14 @@ local Button = Tab:Button({
        loadstring(game:HttpGet("https://raw.githubusercontent.com/xSync-gg/VisionX/refs/heads/main/Server_Finder.lua"))()
     end
  })
+local Button = Tab:Button({
+    Title = "🤑CAT BANANA HUB FREE GIỐNG 99%🤑",
+    Desc = "",
+    Locked = false,
+    Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/aloaloalo322/sssdas/refs/heads/main/cc"))()
+    end
+ })
 local Tab = Window:Tab({
 Title = "Garden Horizons🌱",
     Icon = "solar:cursor-square-bold", -- optional
