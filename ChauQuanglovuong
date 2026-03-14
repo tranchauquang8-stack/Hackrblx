@@ -86,6 +86,19 @@ local Button = Tab:Button({
     end
  })
 local Tab = Window:Tab({
+Title = "99 Night day the Forest🌲🕸🌑",
+    Icon = "solar:cursor-square-bold", -- optional
+    Locked = false,
+})
+local Button = Tab:Button({
+    Title = "FoxName99🦊",
+    Desc = "Nokey 🤑🤑",
+    Locked = false,
+    Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/refs/heads/main/FoxnameHub.lua"))()
+    end
+})
+local Tab = Window:Tab({
 Title = "Garden Horizons🌱",
     Icon = "solar:cursor-square-bold", -- optional
     Locked = false,
